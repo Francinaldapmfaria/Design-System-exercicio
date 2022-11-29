@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "fruta": "Banana",
+    "preco": 5,
+    "precodesconto": 4,
+    "img": "https://media.istockphoto.com/id/1291262112/photo/banana.jpg?b=1&s=170667a&w=0&k=20&c=pPSsFoR1CX7oHJrr-bZPSoFIBO8PPf4SQDg3IbF-wcg="
+},
+
+{
+    "id": 2,
+    "fruta": "Maçã",
+    "preco": 3,
+    "precodesconto": 2,
+    "img": "https://img.itdg.com.br/tdg/images/blog/uploads/2017/05/shutterstock_290834552.jpg"
+
+},
+
+{
+    "id": 3,
+    "fruta": "Uva",
+    "preco": 8,
+    "precodesconto": 7,
+    "img": "https://www.pensenatural.com.br/wp-content/uploads/2019/01/beneficios-da-uva-0.jpg"
+}
+
+]
